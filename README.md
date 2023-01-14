@@ -1,6 +1,6 @@
-<h1>Hi, I'm Emanuel, an <a href="https://linkedin.com/in/emanuelwaters">IT Professional
+<h1>Hi, I'm Emanuel Waters, an <a href="https://linkedin.com/in/emanuelwaters">IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/EWaters7/osticket-prereqs)
